@@ -1,2 +1,2 @@
-# Application DEVELOPER B
-
+DEVELOPER B
+Developer A Story
